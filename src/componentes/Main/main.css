@@ -1,0 +1,48 @@
+body{
+          background-color: rgb(48, 13, 48);
+
+}
+h1{
+          color: aliceblue;
+          font-size:70px;
+
+}
+h3{color: aliceblue;
+          display: inline;
+float: left;}
+ .name{
+        color: rgb(143, 40, 103);
+       display: inline;
+     
+ }
+   main{
+        
+         justify-content: space-around;
+         margin: 200px;
+         text-align: center;
+        
+        
+   }
+a{color: aliceblue;
+font-size: larger;
+justify-content: space-around;
+padding: 30px;
+text-decoration: none;
+
+}
+.barra{font-size: 20px;
+          position: absolute;
+          bottom: 0;
+}
+a:before {
+          content: " | ";
+          color: rgb(191, 141, 238);
+          font-size: 30px;
+          }
+.ola{
+          float: left;}
+
+         img{
+            max-width: 30%;
+            max-height: 30%;
+          }

@@ -1,0 +1,13 @@
+body{
+          background-color: rgb(49, 26, 49);}
+.fig{
+          display: flex;
+    justify-content: center;
+  
+}
+.fig a::before{color: rgb(10 10 10 / 0%);
+
+}
+.fig img{
+    align-items: center;
+}
